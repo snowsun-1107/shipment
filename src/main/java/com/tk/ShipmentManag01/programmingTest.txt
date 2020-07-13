@@ -1,0 +1,7 @@
+http://localhost:8080/split/1/3
+
+http://localhost:8080/merge?shipmentNo=1&shipmentNos=2
+
+http://localhost:8080/trade/4
+
+http://localhost:8080/change?shipmentNo01=1&shipmentNo02=2&goods=1
